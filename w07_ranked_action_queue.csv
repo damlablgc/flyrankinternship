@@ -1,0 +1,51 @@
+rank,client_hash_id,content_hash_id,archetype,action,reason_code
+1,client_0,page_0,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+2,client_1,page_1,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+3,client_2,page_2,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+4,client_3,page_3,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+5,client_4,page_4,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+6,client_5,page_5,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+7,client_6,page_6,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+8,client_7,page_7,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+9,client_8,page_8,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+10,client_9,page_9,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+11,client_10,page_10,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+12,client_11,page_11,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+13,client_12,page_12,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+14,client_13,page_13,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+15,client_14,page_14,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+16,client_15,page_15,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+17,client_16,page_16,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+18,client_17,page_17,ctr_fade,review content quality + CTL,"Top 20 position, below-median CTR"
+19,client_18,page_18,young_high_risk,audit indexing + ranking setup,"<30 days old, declining"
+20,client_19,page_19,young_high_risk,audit indexing + ranking setup,"<30 days old, declining"
+21,client_20,page_20,young_high_risk,audit indexing + ranking setup,"<30 days old, declining"
+22,client_21,page_21,young_high_risk,audit indexing + ranking setup,"<30 days old, declining"
+23,client_22,page_22,young_high_risk,audit indexing + ranking setup,"<30 days old, declining"
+24,client_23,page_23,young_high_risk,audit indexing + ranking setup,"<30 days old, declining"
+25,client_24,page_24,young_high_risk,audit indexing + ranking setup,"<30 days old, declining"
+26,client_25,page_25,young_high_risk,audit indexing + ranking setup,"<30 days old, declining"
+27,client_26,page_26,young_high_risk,audit indexing + ranking setup,"<30 days old, declining"
+28,client_27,page_27,young_high_risk,audit indexing + ranking setup,"<30 days old, declining"
+29,client_28,page_28,young_high_risk,audit indexing + ranking setup,"<30 days old, declining"
+30,client_29,page_29,young_high_risk,audit indexing + ranking setup,"<30 days old, declining"
+31,client_30,page_30,young_high_risk,audit indexing + ranking setup,"<30 days old, declining"
+32,client_31,page_31,young_high_risk,audit indexing + ranking setup,"<30 days old, declining"
+33,client_32,page_32,low_traffic_uncertain,hold 2-4 weeks for more data,limited trailing impressions
+34,client_33,page_33,low_traffic_uncertain,hold 2-4 weeks for more data,limited trailing impressions
+35,client_34,page_34,low_traffic_uncertain,hold 2-4 weeks for more data,limited trailing impressions
+36,client_35,page_35,low_traffic_uncertain,hold 2-4 weeks for more data,limited trailing impressions
+37,client_36,page_36,low_traffic_uncertain,hold 2-4 weeks for more data,limited trailing impressions
+38,client_37,page_37,low_traffic_uncertain,hold 2-4 weeks for more data,limited trailing impressions
+39,client_38,page_38,low_traffic_uncertain,hold 2-4 weeks for more data,limited trailing impressions
+40,client_39,page_39,low_traffic_uncertain,hold 2-4 weeks for more data,limited trailing impressions
+41,client_40,page_40,low_traffic_uncertain,hold 2-4 weeks for more data,limited trailing impressions
+42,client_41,page_41,low_traffic_uncertain,hold 2-4 weeks for more data,limited trailing impressions
+43,client_42,page_42,low_traffic_uncertain,hold 2-4 weeks for more data,limited trailing impressions
+44,client_43,page_43,low_traffic_uncertain,hold 2-4 weeks for more data,limited trailing impressions
+45,client_0,page_44,model_flagged_other,flag for manual inspection,non-standard feature pattern
+46,client_1,page_45,model_flagged_other,flag for manual inspection,non-standard feature pattern
+47,client_2,page_46,model_flagged_other,flag for manual inspection,non-standard feature pattern
+48,client_3,page_47,model_flagged_other,flag for manual inspection,non-standard feature pattern
+49,client_4,page_48,model_flagged_other,flag for manual inspection,non-standard feature pattern
+50,client_5,page_49,model_flagged_other,flag for manual inspection,non-standard feature pattern
